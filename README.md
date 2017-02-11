@@ -50,6 +50,6 @@ Contributions of all sizes are welcome.
 <b>Team</b>
 
 1. [Shashank Kumar](https://github.com/realslimshanky)
-2. [Aaqa Istyaq](https://github.com/aaqaishtyaq)
+2. [Aaqa Ishtyaq](https://github.com/aaqaishtyaq)
 3. [Snehil verma](https://github.com/vsnehil)
 4. [Ankit Rai](https://github.com/ankitrai96)
