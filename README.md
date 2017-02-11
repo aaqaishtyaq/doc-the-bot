@@ -12,7 +12,7 @@ This project is a platoform where the user can consult application's protaganist
 5. Contributing
 
 <b>Introduction</b>
-The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 3.*
+The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 3.x
 
 <b>Installing</b>
 Following dependencies should be installed before running .py file
