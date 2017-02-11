@@ -9,7 +9,7 @@ This is a assistance bot for users medical issues.
 4. Contributing
 
 <b>Introduction</b>
-The API used provides a pure python interface for the Telegram Bot API. It is compatible with Python version 2.7+.
+The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 2.7+.
 
 <b>Installing</b>
 You can install python-telegram-bot with:
