@@ -1,6 +1,6 @@
 # Doc-the-Bot
 
-This project is a platoform where the user can consult application's protaganist, Bot the doc. The user will be able to interact with bot via textual input and respond as per bot's CSE (context synthesisation Engine). CSE is based on Neural Network system and the bot's algorithm is so designed to predict possible health issues based on symptoms provided by the user. The prediction is based on a static dataset for proof of concept for now.
+This project is a platoform where the user can consult application's protaganist, `Doc the Bot`. The user will be able to interact with bot via textual input and respond as per bot's CSE (context synthesisation Engine). CSE is based on Neural Network system and the bot's algorithm is so designed to predict possible health issues based on symptoms provided by the user. The prediction is based on a static dataset for proof of concept for now.
 (will be deployed soon on an AWS EC2 instance)
 
 <b>Table of contents</b>
