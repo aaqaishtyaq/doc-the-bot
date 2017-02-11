@@ -1,5 +1,5 @@
 # doc the bot
-We crated an assistent bot for your medical issues.
+We created an assistent bot for your medical issues.
 
 <b>Table of contents</b>
 
@@ -7,6 +7,7 @@ We crated an assistent bot for your medical issues.
 2. Installing
 3. Getting started
 4. Contributing
+
 <b>Introduction</b>
 The API used provides a pure python interface for the Telegram Bot API. It is compatible with Python version 2.7+.
 
