@@ -1,5 +1,5 @@
 # doc the bot
-We created an assistent bot for your medical issues.
+This is a assistance bot for users medical issues.
 
 <b>Table of contents</b>
 
