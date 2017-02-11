@@ -36,6 +36,7 @@ Other references:
 Also having basic understanding about Neural Network and Natural Language Processing.
 
 <b>Deployment</b>
+
 1. Clone the repository on your local machine
 2. Get a Telegram Bot API ID from [BotFather](https://telegram.me/botfather)
 3. Run using `python3 bot.py`
