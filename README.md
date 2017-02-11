@@ -1,6 +1,6 @@
 # Doc-the-Bot
 
-This project is a platoform where the user can consult application's protaganist, `Doc the Bot`. The user will be able to interact with bot via textual input and respond as per bot's CSE (context synthesisation Engine). CSE is based on Neural Network system and the bot's algorithm is so designed to predict possible health issues based on symptoms provided by the user. The prediction is based on a static dataset for proof of concept for now.
+This project is a platoform where the user can consult application's protaganist, `Doc the Bot`. The user will be able to interact with bot via textual input and respond as per bot's CSE (Context Synthesisation Engine). CSE is based on Neural Network system and the bot's algorithm is so designed to predict possible health issues based on symptoms provided by the user. The prediction is based on a static dataset for proof of concept for now.
 (will be deployed soon on an AWS EC2 instance)
 
 <b>Table of contents</b>
@@ -10,6 +10,7 @@ This project is a platoform where the user can consult application's protaganist
 3. Getting started
 4. Deployment
 5. Contributing
+6. Team
 
 <b>Introduction</b>
 The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 3.x
@@ -46,9 +47,9 @@ Also having basic understanding about Neural Network and Natural Language Proces
 
 Contributions of all sizes are welcome.
 
+<b>Team</b>
 
-
-
-
-
-
+1. [Shashank Kumar](https://github.com/realslimshanky)
+2. [Aaqa Istyaq](https://github.com/aaqaishtyaq)
+3. [Snehil verma](https://github.com/vsnehil)
+4. [Ankit Rai](https://github.com/ankitrai96)
