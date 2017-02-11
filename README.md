@@ -1,26 +1,24 @@
 # doc the bot
 This is a assistance bot for users medical issues.
+(will be deployed soon on an AWS EC2 instance)
 
 <b>Table of contents</b>
 
 1. Introduction
 2. Installing
 3. Getting started
-4. Contributing
+4. Deployment
+5. Contributing
 
 <b>Introduction</b>
-The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 2.7+.
+The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 3.*
 
 <b>Installing</b>
-You can install python-telegram-bot with:
+Following dependencies should be installed before running .py file
 
-$ pip install python-telegram-bot --upgrade
-
-Or you can install from source with:
-
-$ git clone https://github.com/python-telegram-bot/python-telegram-bot
-$ cd python-telegram-bot
-$ python setup.py install
+1. [Python-Telergam-Bot](https://github.com/python-telegram-bot/python-telegram-bot/)
+2. [PyDictionary](https://pypi.python.org/pypi/PyDictionary/1.3.9)
+3. [NLTK](http://www.nltk.org/)
 
 <b>Getting started</b>
 
@@ -33,6 +31,14 @@ Other references:
 
     Telegram API documentation
     python-telegram-bot documentation
+
+Also having basic understanding about Neural Network and Natural Language Processing.
+
+<b>Deployment</b>
+1. Clone the repository on your local machine
+2. Get a Telegram Bot API ID from [BotFather](https://telegram.me/botfather)
+3. Run using `python3 bot.py`
+4. Test on telegram
         
 <b>Contributing</b>
 

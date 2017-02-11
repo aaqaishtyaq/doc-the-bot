@@ -1,9 +1,10 @@
 from telegram.ext import Updater,CommandHandler,MessageHandler,Filters,CallbackQueryHandler,InlineQueryHandler
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup,InlineQueryResultArticle,InputTextMessageContent,ParseMode
 import telegram,logging,time,re
-from telegram import ChatAction
 from PyDictionary import PyDictionary
 import nltk
+import json
+
 
 updater=Updater(token='Telegram-Bot-API-Key')
 dispatcher=updater.dispatcher
@@ -12,9 +13,8 @@ logging.basicConfig(format='%(asctime)s-%(name)s-%(levelname)s-%message)s',level
 logger = logging.getLogger(__name__)
 
 #Sample data set soon to be exported as seperate entity which can be expanded
-sample_data_set={"disease":["diabetes"," chicken pox","measles"," hepatitis","influenza","flu","typhoid","cholera","malaria"],
-"symptoms":["weight loss thirst frequent urination","red coloured rash back chest whole body","white patches mouth throat rashes body","bodyache skin yellowish","fever headache","fever headache","continuous fever headache reddish rashes","muscular crampsand acute diarrohoea","chilliness shivering fever"],
-"commonsym":['cold cough fever sneeze']}
+with open('data.json', 'r') as fp:
+    sample_data_set = json.load(fp)
 
 print("I'm On")
 
