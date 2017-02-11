@@ -9,9 +9,11 @@ This is a assistance bot for users medical issues.
 4. Contributing
 
 <b>Introduction</b>
+
 The API used provide a pure python interface for the Telegram Bot API. It is compatible with Python version 2.7+.
 
 <b>Installing</b>
+
 You can install python-telegram-bot with:
 
 $ pip install python-telegram-bot --upgrade
@@ -19,7 +21,9 @@ $ pip install python-telegram-bot --upgrade
 Or you can install from source with:
 
 $ git clone https://github.com/python-telegram-bot/python-telegram-bot
+
 $ cd python-telegram-bot
+
 $ python setup.py install
 
 <b>Getting started</b>
